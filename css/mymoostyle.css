@@ -13,6 +13,8 @@
        height: 245px;
    }
 #first_slide {
+        width: 375px;
+        height: 245px;
        text-align: center;
        font-size: 18px;
        background: #fff;
